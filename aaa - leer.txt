@@ -1,0 +1,25 @@
+Hola, 
+
+
+Como podéis ver, no me he ajustado a la estructura de carpetas que se pide, para presentar el código. El motivo es que he estado trabajando con esta estructura a lo largo de todo el estudio, y he optado por no cambiarla al final, para no romper los enlaces con los que se importan los datos. 
+
+Os describo brevemente el contenido del EDA:
+- memoria.ipynb: archivo requerido en 0-Proyecto_EDA.ipynb
+- funcion_XXX.ipynb: archivos con funciones utilizadas para descargar los datos de Aemet.
+- carpetas XXX_csv: recopilación de los archivos csv descargados de Aemet.
+- preparacion_XXX.ipynb: archivos con código para el procesado y limpieza de los datos.
+- archivosXXX.csv: archivos resultantes de estos últimos y fuente de datos para el EDA.
+- graficas.ipynb: código para la representación gráfica de los datos.
+- enlace_git.txt: enlace a Git para acceder al EDA
+- Presentacion.pdf: Versión en pdf de la presentación creada en Canva. El enlace es:
+
+https://www.canva.com/design/DAFmv--1Y1A/IkQDOQRvOovWYkpO1sJFsw/edit?utm_content=DAFmv--	1Y1A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Espero que os guste, he intentado hacerlo lo mejor posible y le he dedicado muchas horas. De todas maneras, algún día haré una versión 2.0.
+
+Un saludo, 
+
+
+Alfonso
+
+
