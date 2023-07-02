@@ -1,0 +1,23 @@
+Hola Miguel y Yago, 
+
+
+Os describo brevemente el contenido del EDA:
+- Presentacion.pdf: Versión en pdf de la presentación creada en Canva. El enlace es:
+
+https://www.canva.com/design/DAFmv--1Y1A/IkQDOQRvOovWYkpO1sJFsw/edit?utm_content=DAFmv--	1Y1A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+- memoria.ipynb: archivo requerido en 0-Proyecto_EDA.ipynb
+- carpeta data: Contiene los datos empleados. Por un lado, están los csv extraídos de Aemet, y por otro los creados durante el proceso de obtención de los dataframes.
+- carpeta utils: Contiene los archivos ipynb con los que transformé los csv de Aemet en los dataframes de trabajo. 
+- preparacion_XXX.ipynb: archivos con código para el procesado y limpieza de los datos.
+- graficas.ipynb: código para la representación gráfica de los datos.
+- enlace_git.txt: enlace a Git para acceder al EDA
+
+Espero que os guste, he intentado hacerlo lo mejor posible y le he dedicado muchas horas. De todas maneras, algún día haré una versión 2.0.
+
+Un saludo, 
+
+
+Alfonso
+
+
